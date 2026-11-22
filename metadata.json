@@ -1,0 +1,6 @@
+{
+  "name": "Final_Build_0.1",
+  "description": "Smart multimodal public transit planner for Delhi NCR with interactive MapLibre maps, time-dependent routing, itinerary-aware chat assistant, and offline Room storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

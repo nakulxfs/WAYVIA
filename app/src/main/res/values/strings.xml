@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Final_Build_0.1</string>
+    <string name="home_greeting">Where are we heading?</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_assistant">Assistant</string>
+    <string name="nav_profile">Profile</string>
+    <string name="from_placeholder">Origin station or place</string>
+    <string name="to_placeholder">Destination in Delhi NCR</string>
+    <string name="search_routes">Find Multimodal Routes</string>
+    <string name="use_current_location">Current GPS Location</string>
+    <string name="swap_locations">Swap origin and destination</string>
+    <string name="quick_fastest">Fastest</string>
+    <string name="quick_cheapest">Cheapest</string>
+    <string name="quick_nearby">Nearby Stops</string>
+    <string name="osm_attribution">© OpenStreetMap contributors · Delhi OTD</string>
+    <string name="start_journey">Start Journey</string>
+    <string name="save_route">Save</string>
+    <string name="share_route">Share</string>
+    <string name="ask_ai_journey">Ask AI</string>
+    <string name="no_routes_found">No feasible transit route found for this departure window.</string>
+</resources>

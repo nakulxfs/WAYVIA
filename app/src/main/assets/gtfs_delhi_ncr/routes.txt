@@ -1,0 +1,16 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+DMRC_YELLOW,DMRC,Yellow Line,Millennium City Centre - Kashmere Gate,1,FACC15,090B10
+DMRC_BLUE,DMRC,Blue Line,Dwarka Sec 21 - Rajiv Chowk - Noida Botanical,1,2563EB,FFFFFF
+DMRC_VIOLET,DMRC,Violet Line,Kashmere Gate - Central Sec - Old Faridabad,1,A78BFA,090B10
+DMRC_MAGENTA,DMRC,Magenta Line,Janakpuri West - Hauz Khas - Botanical Garden,1,F472B6,090B10
+DMRC_AIRPORT,DMRC,Airport Exp,New Delhi - Dhaula Kuan - IGI Airport T3,1,FB923C,090B10
+IR_MTJ_EXP,IR_NCR,12279 Intercity,Mathura Jn - Faridabad - Nizamuddin - New Delhi Express,2,A78BFA,FFFFFF
+IR_MTJ_MEMU,IR_NCR,04419 MEMU,Mathura Jn - Palwal - Faridabad - Nizamuddin - Old Delhi Local,2,818CF8,FFFFFF
+IR_NCR_RING,IR_NCR,04407 NCR EMU,New Delhi - Anand Vihar - Ghaziabad Suburban,2,C084FC,090B10
+RRTS_NAMO,NCRTC,Namo Bharat RRTS,New Ashok Nagar - Anand Vihar - Ghaziabad - Meerut South,2,F59E0B,090B10
+DTC_405,DTC,DTC 405,Nizamuddin - India Gate - Connaught Place - New Delhi - ISBT,3,34D399,090B10
+DTC_522,DTC,DTC 522,Hauz Khas - AIIMS - India Gate - Connaught Place - ISBT,3,10B981,090B10
+DTC_AIR_EXP,DTC,DTC Airport AC,Connaught Place - Dhaula Kuan - IGI Airport T3,3,2DD4BF,090B10
+DTC_GL23,DTC,DTC GL-23,Connaught Place - Nizamuddin - Noida Sec 18 - Anand Vihar ISBT,3,34D399,090B10
+DTC_GGN_EXP,DTC,DTC Gurugram,Dhaula Kuan - Cyber Hub - AIIMS Express,3,6EE7B7,090B10
+DTC_FDB_405,DTC,DTC 405A,Faridabad Chowk - Nehru Place - Nizamuddin - Connaught Place,3,34D399,090B10

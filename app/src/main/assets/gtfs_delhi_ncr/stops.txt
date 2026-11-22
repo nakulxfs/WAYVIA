@@ -1,0 +1,49 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,location_type,zone_id
+METRO_RAJIV_CHOWK,RCK,Rajiv Chowk Metro Station,Connaught Place Interchange (Yellow / Blue),28.6328,77.2197,1,CENTRAL
+METRO_NEW_DELHI,NDLS_M,New Delhi Metro Station,Yellow Line & Airport Express Interchange,28.6431,77.2219,1,CENTRAL
+METRO_KASHMERE_GATE,KG_M,Kashmere Gate Metro Station,Yellow / Red / Violet Interchange,28.6675,77.2282,1,NORTH
+METRO_CENTRAL_SEC,CS_M,Central Secretariat Metro Station,Yellow / Violet Interchange,28.6147,77.2119,1,CENTRAL
+METRO_AIIMS,AIIMS_M,AIIMS Metro Station,Yellow Line South Delhi,28.5689,77.2077,1,SOUTH
+METRO_HAUZ_KHAS,HK_M,Hauz Khas Metro Station,Yellow / Magenta Interchange,28.5433,77.2066,1,SOUTH
+METRO_SAKET,SKT_M,Saket Metro Station,Yellow Line South Delhi,28.5206,77.2014,1,SOUTH
+METRO_HUDA_GURUGRAM,MCC_M,Millennium City Centre Gurugram,Yellow Line Terminus,28.4593,77.0725,1,GURUGRAM
+METRO_MANDI_HOUSE,MH_M,Mandi House Metro Station,Blue / Violet Interchange,28.6258,77.2342,1,CENTRAL
+METRO_YAMUNA_BANK,YB_M,Yamuna Bank Metro Station,Blue Line East Interchange,28.6233,77.2679,1,EAST
+METRO_NOIDA_SEC18,N18_M,Noida Sector 18 Metro Station,Blue Line Noida,28.5708,77.3261,1,NOIDA
+METRO_BOTANICAL,BG_M,Botanical Garden Metro Station,Blue / Magenta Interchange,28.5641,77.3342,1,NOIDA
+METRO_KALKAJI,KJ_M,Kalkaji Mandir Metro Station,Violet / Magenta Interchange,28.5499,77.2584,1,SOUTH
+METRO_ANAND_VIHAR,AV_M,Anand Vihar Metro Station,Blue / Pink Line East Delhi,28.6469,77.3160,1,EAST
+METRO_JANAKPURI_W,JPW_M,Janakpuri West Metro Station,Blue / Magenta Interchange,28.6295,77.0777,1,WEST
+METRO_DWARKA_21,DW21_M,Dwarka Sector 21 Metro Station,Blue / Airport Express Interchange,28.5523,77.0583,1,WEST
+METRO_IGI_T3,T3_M,IGI Airport Terminal 3 Metro,Airport Express Line,28.5567,77.0867,1,WEST
+METRO_DHAULA_KUAN,DK_M,Dhaula Kuan Metro Station,Airport Express / Pink Interchange,28.5919,77.1616,1,SOUTH
+METRO_NEW_ASHOK_NAGAR,NAN_M,New Ashok Nagar Metro Station,Blue Line / RRTS Interchange,28.5890,77.3021,1,EAST
+METRO_FARIDABAD_OLD,FDB_M,Old Faridabad Metro Station,Violet Line Faridabad,28.4193,77.3112,1,FARIDABAD
+RAIL_MATHURA,MTJ,Mathura Junction Railway Station,NCR Major Rail Hub,27.4765,77.6744,1,NCR_SOUTH
+RAIL_PALWAL,PWL,Palwal Railway Station,NCR Suburban Rail,28.1445,77.3320,1,NCR_SOUTH
+RAIL_FARIDABAD,FDB,Faridabad Railway Station,Northern Railway Suburban,28.4090,77.3088,1,FARIDABAD
+RAIL_NIZAMUDDIN,NZM,Hazrat Nizamuddin Railway Station,South-Central Delhi Rail Hub,28.5880,77.2535,1,CENTRAL
+RAIL_NEW_DELHI,NDLS,New Delhi Railway Station,Central Delhi Main Rail Terminal,28.6429,77.2191,1,CENTRAL
+RAIL_OLD_DELHI,DLI,Old Delhi Junction (Chandni Chowk),North Delhi Rail Terminal,28.6619,77.2279,1,NORTH
+RAIL_ANAND_VIHAR,ANVT,Anand Vihar Terminal Railway,East Delhi Rail Terminal,28.6476,77.3156,1,EAST
+RAIL_GHAZIABAD,GZB,Ghaziabad Junction Railway,UP NCR Rail Hub,28.6508,77.4278,1,GHAZIABAD
+RRTS_NEW_ASHOK,NAN_R,New Ashok Nagar RRTS Station,Namo Bharat Rapid Rail,28.5897,77.3033,1,EAST
+RRTS_ANAND_VIHAR,AV_R,Anand Vihar RRTS Station,Namo Bharat Underground Hub,28.6478,77.3168,1,EAST
+RRTS_SAHIBABAD,SBD_R,Sahibabad RRTS Station,Namo Bharat Rapid Rail,28.6752,77.3635,1,GHAZIABAD
+RRTS_GHAZIABAD,GZB_R,Ghaziabad RRTS Station,Namo Bharat Rapid Rail,28.6692,77.4357,1,GHAZIABAD
+RRTS_DUHAI,DHI_R,Duhai RRTS Station,Namo Bharat Rapid Rail,28.7429,77.4761,1,GHAZIABAD
+RRTS_MEERUT_SOUTH,MRT_R,Meerut South RRTS Station,Namo Bharat Rapid Rail,28.9150,77.6410,1,MEERUT
+BUS_CONNAUGHT_PLACE,CP_B,Connaught Place Outer Circle Bus Stop,DTC Central Hub,28.6315,77.2167,0,CENTRAL
+BUS_NDLS_GATE,NDLS_B,New Delhi Station Ajmeri Gate Bus Stand,DTC Rail Feeder,28.6418,77.2208,0,CENTRAL
+BUS_INDIA_GATE,IG_B,India Gate C-Hexagon Bus Stop,DTC Central Vista,28.6129,77.2295,0,CENTRAL
+BUS_NIZAMUDDIN_B,NZM_B,Hazrat Nizamuddin Station Bus Terminal,DTC Major Bus Stand,28.5889,77.2512,0,CENTRAL
+BUS_AIIMS_B,AIIMS_B,AIIMS Ring Road Bus Stand,DTC South Corridor,28.5672,77.2100,0,SOUTH
+BUS_HAUZ_KHAS_B,HK_B,Hauz Khas Enclave Bus Stop,DTC Outer Ring Road,28.5450,77.2055,0,SOUTH
+BUS_NEHRU_PLACE_B,NP_B,Nehru Place Bus Terminal,DTC South-East Hub,28.5494,77.2519,0,SOUTH
+BUS_DHAULA_KUAN_B,DK_B,Dhaula Kuan Bus Stand,DTC Airport & Gurugram Link,28.5924,77.1631,0,SOUTH
+BUS_KASHMERE_ISBT,ISBT_B,ISBT Kashmere Gate Bus Terminal,DTC Inter-State Bus Hub,28.6672,77.2294,0,NORTH
+BUS_ANAND_VIHAR_ISBT,AVB_B,Anand Vihar ISBT Bus Terminal,DTC East Delhi Hub,28.6462,77.3145,0,EAST
+BUS_NOIDA_18_B,N18_B,Noida Sector 18 Bus Stop,DTC / NMRC Link,28.5701,77.3248,0,NOIDA
+BUS_CYBER_HUB,CH_B,DLF Cyber Hub Bus Stop,Gurugram Office Corridor,28.4949,77.0895,0,GURUGRAM
+BUS_IGI_T3_B,T3_B,IGI Airport Terminal 3 DTC Express Bay,DTC Airport Shuttle,28.5561,77.0882,0,WEST
+BUS_FARIDABAD_B,FDB_B,Faridabad Old Chowk Bus Stand,NCR Bus Link,28.4120,77.3105,0,FARIDABAD

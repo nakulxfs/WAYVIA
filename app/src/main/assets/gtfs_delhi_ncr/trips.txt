@@ -1,0 +1,33 @@
+route_id,service_id,trip_id,trip_headsign,direction_id
+DMRC_YELLOW,DAILY_ALL,T_YL_NB,Kashmere Gate via Rajiv Chowk,0
+DMRC_YELLOW,DAILY_ALL,T_YL_SB,Millennium City Centre Gurugram,1
+DMRC_BLUE,DAILY_ALL,T_BL_EB,Botanical Garden Noida via Rajiv Chowk,0
+DMRC_BLUE,DAILY_ALL,T_BL_WB,Dwarka Sector 21 via Rajiv Chowk,1
+DMRC_BLUE,DAILY_ALL,T_BL_VAISHALI_EB,Anand Vihar via Yamuna Bank,0
+DMRC_BLUE,DAILY_ALL,T_BL_VAISHALI_WB,Rajiv Chowk via Yamuna Bank,1
+DMRC_VIOLET,DAILY_ALL,T_VL_SB,Old Faridabad via Central Secretariat,0
+DMRC_VIOLET,DAILY_ALL,T_VL_NB,Kashmere Gate via Mandi House,1
+DMRC_MAGENTA,DAILY_ALL,T_ML_EB,Botanical Garden via Hauz Khas,0
+DMRC_MAGENTA,DAILY_ALL,T_ML_WB,Janakpuri West via Hauz Khas,1
+DMRC_AIRPORT,DAILY_ALL,T_AE_WB,IGI Airport T3 & Dwarka Sec 21,0
+DMRC_AIRPORT,DAILY_ALL,T_AE_EB,New Delhi Metro Terminal,1
+IR_MTJ_EXP,DAILY_ALL,T_MTJ_EXP_NB,New Delhi Railway Station (12279 Intercity),0
+IR_MTJ_EXP,DAILY_ALL,T_MTJ_EXP_SB,Mathura Junction (12280 Intercity),1
+IR_MTJ_MEMU,DAILY_ALL,T_MTJ_MEMU_NB,Old Delhi via Nizamuddin (04419 MEMU),0
+IR_MTJ_MEMU,DAILY_ALL,T_MTJ_MEMU_SB,Mathura Junction (04420 MEMU),1
+IR_NCR_RING,DAILY_ALL,T_NCR_EMU_EB,Ghaziabad via Anand Vihar,0
+IR_NCR_RING,DAILY_ALL,T_NCR_EMU_WB,New Delhi via Anand Vihar,1
+RRTS_NAMO,DAILY_ALL,T_RRTS_NB,Meerut South via Ghaziabad,0
+RRTS_NAMO,DAILY_ALL,T_RRTS_SB,New Ashok Nagar via Anand Vihar,1
+DTC_405,DAILY_ALL,T_B405_NB,ISBT Kashmere Gate via Connaught Place,0
+DTC_405,DAILY_ALL,T_B405_SB,Hazrat Nizamuddin Terminal,1
+DTC_522,DAILY_ALL,T_B522_NB,ISBT Kashmere Gate via AIIMS & CP,0
+DTC_522,DAILY_ALL,T_B522_SB,Hauz Khas Enclave via AIIMS,1
+DTC_AIR_EXP,DAILY_ALL,T_BAIR_WB,IGI Airport T3 via Dhaula Kuan,0
+DTC_AIR_EXP,DAILY_ALL,T_BAIR_EB,Connaught Place Outer Circle,1
+DTC_GL23,DAILY_ALL,T_BGL23_EB,Anand Vihar ISBT via Noida Sec 18,0
+DTC_GL23,DAILY_ALL,T_BGL23_WB,Connaught Place via Nizamuddin,1
+DTC_GGN_EXP,DAILY_ALL,T_BGGN_SB,DLF Cyber Hub Gurugram,0
+DTC_GGN_EXP,DAILY_ALL,T_BGGN_NB,AIIMS via Dhaula Kuan,1
+DTC_FDB_405,DAILY_ALL,T_BFDB_NB,Connaught Place via Nehru Place & Nizamuddin,0
+DTC_FDB_405,DAILY_ALL,T_BFDB_SB,Faridabad Old Chowk via Nehru Place,1
